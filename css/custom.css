@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2980b9;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#box{
+    width: 40%;
+    padding: 15px;
+    box-shadow: 0px 0px 5px grey;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.row {
+    width: 100%;
+    margin: 2rem;
+    margin-left: 1;
+}
+
+.btn{
+    width: 100%;
+    padding: 5px;
+    background-color: #2980b9;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
