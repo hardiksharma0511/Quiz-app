@@ -1,5 +1,5 @@
 # 🧠 Quiz App
-
+ 
 A simple and responsive Quiz Application built using **HTML**, **CSS**, and **JavaScript**.
 
 Users can answer multiple-choice questions, submit their answers, and instantly view their final score.
